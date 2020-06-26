@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CrakDemo1</string>
+    <string name="unsuccessed">失败</string>
+    <string name="successed">成功</string>
+</resources>
